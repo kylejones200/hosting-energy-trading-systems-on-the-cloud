@@ -1,7 +1,7 @@
 # Hosting Energy Trading Systems on the Cloud
 
-**Published:** 2025-04-19
-**Medium:** [https://medium.com/@kyle-t-jones/hosting-energy-trading-systems-on-the-cloud-53238d9f382d](https://medium.com/@kyle-t-jones/hosting-energy-trading-systems-on-the-cloud-53238d9f382d)
+Published: 2025-04-19
+Medium: [https://medium.com/@kyle-t-jones/hosting-energy-trading-systems-on-the-cloud-53238d9f382d](https://medium.com/@kyle-t-jones/hosting-energy-trading-systems-on-the-cloud-53238d9f382d)
 
 ## About
 
